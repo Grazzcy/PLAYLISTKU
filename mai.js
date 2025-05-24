@@ -7,8 +7,8 @@ const art_img = document.querySelector('#artist');
 const art_name = document.querySelector('#name');
 const playsong = document.querySelector('#playsong');
 
-const artist_name = ['Guns N Roses','Queen','Yung kai','Evanescence',' Charita Utamy dan Fourtwnty','Sia'];
-const artist_title = ['November Rain','Bohemian Rhapsody','Blue','Bring Me to Life','Mangu','Chandelier'];
+const artist_name = ['Guns N Roses','Queen','Yung kai','Evanescence',' Charita Utamy dan Fourtwnty','Sia','Neffex','Neffex','Akon','Indila','Wiz Khalifa','Michael Buble','Teriyaki Boyz'];
+const artist_title = ['November Rain','Bohemian Rhapsody','Blue','Bring Me to Life','Mangu','Chandelier','Grateful','Fight Back','Lonely','Love Story','See You Again','Feeling Good','Tokyo Drift'];
 
 playsong.addEventListener('click', effect)
 function effect(){
